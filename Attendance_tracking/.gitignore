@@ -1,0 +1,41 @@
+# --- Virtual environments ---
+venv/
+*/venv/
+**/venv/
+***/venv/
+.env/
+*/.env/
+**/.env/
+
+# --- Python cache and temporary files ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+
+# --- IDE files ---
+.vscode/
+.idea/
+*.code-workspace
+
+# --- OS-specific junk ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Model files or large data (optional but wise) ---
+*.h5
+*.pt
+*.pth
+*.pkl
+*.ckpt
+*.onnx
+*.tflite
+*.zip
+*.tar.gz
+# --- Generated data ---
+face_database.json
+enrollment_images/
+downloads/

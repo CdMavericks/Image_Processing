@@ -1,0 +1,40 @@
+# --- Core ML / CV ---
+opencv-python
+deepface
+torch
+torchvision
+ultralytics
+supervision
+numpy
+
+# --- Web Frameworks ---
+fastapi
+uvicorn
+flask
+flask-cors
+requests
+
+# --- Frontend / Test Interface ---
+streamlit
+pillow
+
+# --- Firebase Integration ---
+firebase-admin
+
+# --- Data Handling ---
+pydantic
+python-multipart
+
+# --- Utility / Misc ---
+tqdm
+joblib
+
+# --- Optional / For your dashboard friend ---
+pandas
+matplotlib
+
+# --- (For possible Cloudinary access from Python if needed) ---
+cloudinary
+
+
+mysql-connector-python

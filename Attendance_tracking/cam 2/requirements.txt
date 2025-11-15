@@ -1,0 +1,9 @@
+opencv-python
+ultralytics
+supervision
+numpy
+requests
+deepface
+pydantic
+fastapi
+uvicorn
